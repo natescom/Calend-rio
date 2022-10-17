@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #667ce2;
+    padding: 1em;
+}
+
+.title{
+    color: white;
+    text-decoration: none;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 48px;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item{
+    margin-right: 1em;
+}
+
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
+.item a:hover {
+    color: #FFBB33; 
+}

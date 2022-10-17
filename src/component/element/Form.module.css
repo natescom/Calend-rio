@@ -1,0 +1,17 @@
+.form{
+    width: 100%;
+    margin: 2em 0;
+}
+
+.formSubmit{
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border: 0;
+}
+
+.formSubmit:hover{
+    color: #3e57c9
+}
